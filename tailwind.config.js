@@ -11,8 +11,12 @@ module.exports = {
         width: "100%"
     },
   height:{
-    height: "110vh",
-  } },
+    height: "100vh",
+  }
+  ,backgroundColor:{
+    redish: '#c30a17',
+  }
+} ,
     },
     plugins: [],
   }
